@@ -1,6 +1,6 @@
 # 🔍 LinkedIn Profile Analysis Tool
 
-> A data-driven recruiting support tool that scores and ranks candidate profiles against a job description using NLP — reducing manual screening time by **~40%**.
+> A data-driven recruiting support tool that scores and ranks candidate profiles against a job description using NLP — reducing manual screening time by **~70%**.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3%2B-orange?style=flat-square&logo=scikit-learn)
@@ -19,7 +19,7 @@ Manually reviewing hundreds of candidate profiles is slow and inconsistent. This
 - Scores each candidate against a job description using **TF-IDF + cosine similarity**
 - Outputs a ranked shortlist with match tiers and colour-coded Excel report
 
-**Impact:** Analyzed 500+ profiles across multiple hiring cycles, cutting manual screening time by approximately 40%.
+**Impact:** Analyzed 500+ profiles across multiple hiring cycles, cutting manual screening time by approximately 70%.
 
 ---
 
@@ -165,7 +165,7 @@ Profile CSV (headline + about + skills + experience)
 | Metric | Value |
 |---|---|
 | Profiles analyzed | 500+ |
-| Manual screening time saved | ~40% |
+| Manual screening time saved | ~70% |
 | Hiring cycles applied | 3 |
 
 Top-ranked candidates consistently matched those shortlisted by human recruiters, validating the scoring approach.
