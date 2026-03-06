@@ -1,0 +1,28 @@
+Data Analyst — Growth & Product Team
+
+About the Role
+We are looking for a Data Analyst to join our fast-growing Product Analytics team. You will work closely with product managers, engineers, and business stakeholders to translate complex data into clear, actionable insights that drive decision-making across the company.
+
+Responsibilities
+- Design and maintain dashboards and reports to track key product and business metrics
+- Write complex SQL queries to extract, clean, and analyze large datasets
+- Conduct A/B testing analysis and communicate results to non-technical stakeholders
+- Identify trends, patterns, and anomalies in data to surface business opportunities
+- Collaborate with cross-functional teams to define metrics and measurement frameworks
+- Build and maintain data models using dbt or similar tools
+- Present findings and recommendations to senior leadership
+
+Requirements
+- 2+ years of experience in a data analyst or business analyst role
+- Strong proficiency in SQL (window functions, CTEs, subqueries)
+- Experience with Python (Pandas, NumPy) for data manipulation and analysis
+- Hands-on experience with BI tools such as Tableau, Looker, or Power BI
+- Solid understanding of statistics, A/B testing, and experimental design
+- Experience with data visualization and storytelling for business audiences
+- Strong communication skills — ability to explain complex analyses clearly
+- Familiarity with dbt, Airflow, or similar data pipeline tools is a plus
+
+Nice to Have
+- Experience with cloud data warehouses (BigQuery, Snowflake, Redshift)
+- Knowledge of product analytics frameworks (funnel analysis, cohort analysis, retention)
+- Background in SaaS, e-commerce, or consumer tech
